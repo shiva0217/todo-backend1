@@ -1,6 +1,6 @@
   {
   "JWT_SECRET" : "your_secret_key_here", 
-  "MONGO_URI" : "  mongodb+srv://shiva140294:VK81H0wVWueskRUL@cluster0.sppiqrm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+  "MONGO_URI" : "mongodb+srv://shiva140294:VK81H0wVWueskRUL@cluster0.sppiqrm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   }
   
     
